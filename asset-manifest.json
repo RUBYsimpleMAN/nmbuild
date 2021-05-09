@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/nmbuild/static/css/main.661e5362.chunk.css",
-    "main.js": "/nmbuild/static/js/main.8e23b145.chunk.js",
+    "main.css": "/nmbuild/static/css/main.1600c8d8.chunk.css",
+    "main.js": "/nmbuild/static/js/main.ce539643.chunk.js",
     "runtime-main.js": "/nmbuild/static/js/runtime-main.145e8721.js",
     "static/js/2.9704305a.chunk.js": "/nmbuild/static/js/2.9704305a.chunk.js",
     "static/js/3.d45f9413.chunk.js": "/nmbuild/static/js/3.d45f9413.chunk.js",
@@ -19,14 +19,14 @@
     "static/media/ebi_09_fb.8d5cc97c.svg": "/nmbuild/static/media/ebi_09_fb.8d5cc97c.svg",
     "static/media/ebi_10_insta.b642c445.svg": "/nmbuild/static/media/ebi_10_insta.b642c445.svg",
     "static/media/ebi_11_youtube.6f9c0c46.svg": "/nmbuild/static/media/ebi_11_youtube.6f9c0c46.svg",
+    "static/media/index.css": "/nmbuild/static/media/ebi_background.4dadd805.svg",
     "static/media/ebi_image.d253302e.svg": "/nmbuild/static/media/ebi_image.d253302e.svg",
-    "static/media/InvestBlock.css": "/nmbuild/static/media/ebi_image1r.72df6cee.svg",
     "static/media/logo.6ce24c58.svg": "/nmbuild/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.145e8721.js",
     "static/js/2.9704305a.chunk.js",
-    "static/css/main.661e5362.chunk.css",
-    "static/js/main.8e23b145.chunk.js"
+    "static/css/main.1600c8d8.chunk.css",
+    "static/js/main.ce539643.chunk.js"
   ]
 }
